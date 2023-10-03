@@ -9,4 +9,4 @@ CREATE DATABASE IoT;
 ---
 
 ##### Image from web
-![](/img/Elon_Musk_Colorado.jpg)
+![](/Elon_Musk_Colorado.jpg)
