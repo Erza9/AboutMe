@@ -1,9 +1,10 @@
 AboutMe
 
 ## Overview
-<h3>My favorite Quote></h3>
-<h5>"People who hates cats will come back as mice in their next life"-Faye Resnick</h5>
----mysql
+<h3>My favorite Quote</h3
+                       
+> People who hates cats will come back as mice in their next life: Faye Resnick
+
 <h3>My hobbies</h3>
 <li>I like to play Videogames (Especially Super Smash Bros Ultimate. It is my favorite game of all time.)</li>
 <li>I like to read books, as long as I think they're interesting(My favorite book is the Scythe trilogy by Neal Shushterman)</li>
@@ -20,8 +21,6 @@ AboutMe
   <h3>My favorite Emoji</h3>
   :octocat:
   <h5>The Octocat is  my favorite because they didnt have the crab. The crab is my favorite but the octocat is a close second, It is a mix between the octopus and the cat. The octopus being my favorie animal and I just adore cats.</h5>
-CREATE DATABASE IoT;
-
 ---
 
 | Work Skills | Where I learned them |
